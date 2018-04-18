@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "128681208375",
+    "firebase_url": "https://chatapp-c5a5c.firebaseio.com",
+    "project_id": "chatapp-c5a5c",
+    "storage_bucket": "chatapp-c5a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128681208375:android:692b7d383965a97f",
+        "android_client_info": {
+          "package_name": "com.example.opilane.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128681208375-7b39u3m3gedco5lphkh3v1vhe8igl3bq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.opilane.chatapp",
+            "certificate_hash": "cae03582620b68bdd50df862f4a8a6dcbcb1ec9d"
+          }
+        },
+        {
+          "client_id": "128681208375-9m4ck86gbds0q0vs70t9m243r38sr89p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC04FZlKlEOTNDAk2CwBhI8hv5kLZmv0F0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128681208375-9m4ck86gbds0q0vs70t9m243r38sr89p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
